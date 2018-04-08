@@ -1,5 +1,5 @@
 
-> # healchain
+> # healchain/HemoChain
 
 ## Demo
 http://172.21.0.5:8080/ ( you need MetaMask/Toshi to view this url )
