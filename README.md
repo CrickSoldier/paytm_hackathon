@@ -1,16 +1,8 @@
 
 > # healchain
 
-> # NITI Aayog & Proffer Hackathon Submission  
-![Work Flow](https://raw.githubusercontent.com/paimpozhil/healchain/master/Logo-2.png)
-
-> # Hackathon Result 
-HealChain WON non-monetary prize! "IBM Blockchain Internship"
-
-https://blog.proffer.network/proffer-hackathon-winners-2017-1adb2078a691
-
 ## Demo
-http://172.96.13.85/ ( you need MetaMask/Toshi to view this url )
+http://172.21.0.5:8080/ ( you need MetaMask/Toshi to view this url )
 * Toshi Dev app : search for HealChain
 
 ## Problem: 
@@ -92,9 +84,7 @@ When Toshi supports ERC20 tokens, User can send HEAL Tokens to friends, family, 
 
 <img src="https://raw.githubusercontent.com/paimpozhil/healchain/master/SS3-hospital-blood-donor-rebates.jpg" width="200px"> <img src="https://raw.githubusercontent.com/paimpozhil/healchain/master/SS4%20-%20hospital-request-payment-heal-tokens.jpg" width="200px">
 
-> Youtube presentation (Too short & took in a hurry!)
 
-https://www.youtube.com/watch?v=xENyytp5f_E&list=PL5qoO4Db_39W9uYZzvxe45eaU5Vb6mwt4
 
 ### Tech Stack
 
@@ -114,12 +104,10 @@ https://www.youtube.com/watch?v=xENyytp5f_E&list=PL5qoO4Db_39W9uYZzvxe45eaU5Vb6m
 
 > ### Team
  ```
-* PaimPozhil B  > paimpozhil@gmail.com , skype: paimpozhil
-* KarthiKeyan P > karthixinbox@gmail.com , skype: mrkart , linkedin: mrkart
-* Ilampirai B
-* Suresh VR
+* Geeta Rawat > geetarawat080@gmail.com
+* Rahul Prasad > rahul.prasad@ramanujan.du.ac.in
+* Shivam Bhardwaj > shivam.bhardwaj18400@gmail.com
+* Vishal Bhardwaj > vb03823@gmail.com
 ```
 
-> Credits
-whatthefunc Youtube Channel.
 
